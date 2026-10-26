@@ -1,0 +1,18 @@
+{
+  "name": "Donghua Extensions",
+  "version": "1.0.0",
+  "description": "Donghua y anime chino con subtitulos en espanol para Nuvio TV",
+  "author": "robertozv80",
+  "scrapers": [
+    {
+      "id": "seriesdonghua",
+      "name": "SeriesDonghua",
+      "description": "Donghua sub espanol desde seriesdonghua.com (Dailymotion multi-idioma, OK.ru, Rumble, VOE)",
+      "version": "1.0.0",
+      "filename": "providers/seriesdonghua.js",
+      "supportedTypes": ["tv", "movie"],
+      "contentLanguage": ["es"],
+      "formats": ["m3u8", "mp4"]
+    }
+  ]
+}

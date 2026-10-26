@@ -1,0 +1,13 @@
+{
+  "name": "nuvio-donghua",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Plugins nativos Nuvio TV - donghua sub espanol",
+  "scripts": {
+    "test": "node test/run.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
