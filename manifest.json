@@ -1,15 +1,115 @@
 {
   "name": "Donghua Extensions",
-  "version": "1.0.0",
-  "description": "Donghua y anime chino con subtitulos en espanol para Nuvio TV",
+  "version": "1.1.0",
+  "description": "Donghua y anime chino con subtitulos en espanol para Nuvio TV (11 proveedores)",
   "author": "robertozv80",
   "scrapers": [
     {
       "id": "seriesdonghua",
       "name": "SeriesDonghua",
       "description": "Donghua sub espanol desde seriesdonghua.com (Dailymotion multi-idioma, OK.ru, Rumble, VOE)",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "filename": "providers/seriesdonghua.js",
+      "supportedTypes": ["tv", "movie"],
+      "contentLanguage": ["es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "donghualife",
+      "name": "DonghuaLife",
+      "description": "Donghua sub espanol desde donghualife.com (Next.js/RSC, OK.ru y Dailymotion)",
+      "version": "1.1.0",
+      "filename": "providers/donghualife.js",
+      "supportedTypes": ["tv", "movie"],
+      "contentLanguage": ["es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "donghuaworld",
+      "name": "DonghuaWorld",
+      "description": "Donghua desde donghuaworld.com (player donghuaplanet: HLS Rumble por calidad, subs es/en)",
+      "version": "1.1.0",
+      "filename": "providers/donghuaworld.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en", "es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "donghuazone",
+      "name": "DonghuaZone",
+      "description": "Donghua desde donghuazone.com (feed Blogger, Dailymotion con subs es/en)",
+      "version": "1.1.0",
+      "filename": "providers/donghuazone.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en", "es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "luciferdonghua",
+      "name": "LuciferDonghua",
+      "description": "Donghua desde luciferdonghua.org (Rumble, OK.ru, Dailymotion)",
+      "version": "1.1.0",
+      "filename": "providers/luciferdonghua.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en", "es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "mundodonghua",
+      "name": "MundoDonghua",
+      "description": "Donghua sub espanol desde mundodonghua.com (player bysekoze: HLS por calidad)",
+      "version": "1.1.0",
+      "filename": "providers/mundodonghua.js",
+      "supportedTypes": ["tv", "movie"],
+      "contentLanguage": ["es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "tiodonghua",
+      "name": "TioDonghua",
+      "description": "Donghua sub espanol desde tiodonghua.lat (Byse, VIDARA, VOE, Dailymotion, Rumble)",
+      "version": "1.1.0",
+      "filename": "providers/tiodonghua.js",
+      "supportedTypes": ["tv", "movie"],
+      "contentLanguage": ["es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "animexin",
+      "name": "AnimeXin",
+      "description": "Donghua desde animexin.dev (Dailymotion, OK.ru, Dood, Odysee)",
+      "version": "1.1.0",
+      "filename": "providers/animexin.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en", "es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "animecube",
+      "name": "AnimeCube",
+      "description": "Donghua desde animecube.live (API JSON propia, Dailymotion con subs)",
+      "version": "1.1.0",
+      "filename": "providers/animecube.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "lmanime",
+      "name": "LmAnime",
+      "description": "Anime y donghua desde lmanime.com (Rumble, Dailymotion, OK.ru)",
+      "version": "1.1.0",
+      "filename": "providers/lmanime.js",
+      "supportedTypes": ["tv"],
+      "contentLanguage": ["en", "es"],
+      "formats": ["m3u8", "mp4"]
+    },
+    {
+      "id": "animegratis",
+      "name": "AnimeGratis",
+      "description": "Anime sub espanol desde animegratis.net (Dailymotion y servidores propios)",
+      "version": "1.1.0",
+      "filename": "providers/animegratis.js",
       "supportedTypes": ["tv", "movie"],
       "contentLanguage": ["es"],
       "formats": ["m3u8", "mp4"]
