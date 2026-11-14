@@ -1,0 +1,154 @@
+{
+  "metas": [
+    {
+      "id": "tt28210907",
+      "type": "series",
+      "name": "Cien mil años en refinación de Qi",
+      "poster": "https://image.tmdb.org/t/p/w500/dZF7DTXgyoyshdALJLOrQ9Zj4Xz.jpg"
+    },
+    {
+      "id": "tmdb:252788",
+      "type": "series",
+      "name": "Peerless Battle Spirit",
+      "poster": "https://image.tmdb.org/t/p/w500/64GQlNTY22QJE48WLn2AEJhpqW1.jpg"
+    },
+    {
+      "id": "tt9248626",
+      "type": "series",
+      "name": "Fights Break Sphere",
+      "poster": "https://image.tmdb.org/t/p/w500/g02VifPuW7Tj3792YBayjikxZsw.jpg"
+    },
+    {
+      "id": "tt43685621",
+      "type": "series",
+      "name": "Beyond the timescape",
+      "poster": "https://image.tmdb.org/t/p/w500/fVMYMnuCXeliKiFsCNriFD81G2G.jpg"
+    },
+    {
+      "id": "tt44368752",
+      "type": "series",
+      "name": "The Eternal Supreme, Li Yunxiao",
+      "poster": "https://image.tmdb.org/t/p/w500/pvJCEYlqG3pt2FyzDF2WP1lu6Uf.jpg"
+    },
+    {
+      "id": "tt12879782",
+      "type": "series",
+      "name": "A Record of a Mortal's Journey to Immortality",
+      "poster": "https://image.tmdb.org/t/p/w500/u1VRjvvCIVwb1MUhoxSAUimhoKZ.jpg"
+    },
+    {
+      "id": "tmdb:329040",
+      "type": "series",
+      "name": "Ascension on a Chosen Day",
+      "poster": "https://image.tmdb.org/t/p/w500/kAugcU2fAvWU1V5Q90Ulcb6wtOg.jpg"
+    },
+    {
+      "id": "tt16409202",
+      "type": "series",
+      "name": "Spare Me, Great Lord!",
+      "poster": "https://image.tmdb.org/t/p/w500/jO4DI02wo9hqimvELQGPa44T47Q.jpg"
+    },
+    {
+      "id": "tmdb:107116",
+      "type": "series",
+      "name": "Supreme God Emperor",
+      "poster": "https://image.tmdb.org/t/p/w500/8vmZErkbw5d5iwXHO23zVmvixOB.jpg"
+    },
+    {
+      "id": "tt15816496",
+      "type": "series",
+      "name": "Against The Sky Supreme",
+      "poster": "https://image.tmdb.org/t/p/w500/6QnS1gfGaaLGkamcmngBc3sIIkH.jpg"
+    },
+    {
+      "id": "tt28022382",
+      "type": "series",
+      "name": "Combat Continent 2",
+      "poster": "https://image.tmdb.org/t/p/w500/kVlTNqhSVRHudCRTjSJbBGmAZby.jpg"
+    },
+    {
+      "id": "tt27497430",
+      "type": "series",
+      "name": "El cazador de demonios",
+      "poster": "https://image.tmdb.org/t/p/w500/lxMoH2KB1cXNcxS290AYdFVF9LK.jpg"
+    },
+    {
+      "id": "tt27497198",
+      "type": "series",
+      "name": "El Gran Maestro",
+      "poster": "https://image.tmdb.org/t/p/w500/e9kdsUK01YSa8Ou5tO72QJ0830X.jpg"
+    },
+    {
+      "id": "tt27617390",
+      "type": "series",
+      "name": "Shrouding the Heavens",
+      "poster": "https://image.tmdb.org/t/p/w500/6q7kSovCl9z0yBtTcrwm4DYt4gR.jpg"
+    },
+    {
+      "id": "tmdb:326695",
+      "type": "series",
+      "name": "A Good Day to Ascend",
+      "poster": "https://image.tmdb.org/t/p/w500/5NKojVuw2Jf0dT9nSgGPlLiBQV5.jpg"
+    },
+    {
+      "id": "tt33046907",
+      "type": "series",
+      "name": "Legends of the Three Kingdoms",
+      "poster": "https://image.tmdb.org/t/p/w500/qYmpzEftq1KSc4uj2e730g4XSga.jpg"
+    },
+    {
+      "id": "tt27517921",
+      "type": "series",
+      "name": "Against The Gods",
+      "poster": "https://image.tmdb.org/t/p/w500/xORt4bvPxAlRPddiwIjq8YF8Gbq.jpg"
+    },
+    {
+      "id": "tmdb:323839",
+      "type": "series",
+      "name": "Oriental Martial Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/rRQsMDzjjSWGBxSnDJBjyF4owny.jpg"
+    },
+    {
+      "id": "tmdb:297924",
+      "type": "series",
+      "name": "The Guardian of Daxia",
+      "poster": "https://image.tmdb.org/t/p/w500/hHADybBuDQwRjbSKcdN473iHW1W.jpg"
+    },
+    {
+      "id": "tt28651453",
+      "type": "series",
+      "name": "Dinastía de Jade",
+      "poster": "https://image.tmdb.org/t/p/w500/qhE3JmBg9aSxB4h1vr84Uc10gjJ.jpg"
+    },
+    {
+      "id": "tt27657838",
+      "type": "series",
+      "name": "The Westward",
+      "poster": "https://image.tmdb.org/t/p/w500/hn6LHTz1gFsXQYR9TLRMNO0dzgn.jpg"
+    },
+    {
+      "id": "tmdb:76806",
+      "type": "series",
+      "name": "Tales of Demons and Gods",
+      "poster": "https://image.tmdb.org/t/p/w500/1YzVxVFGGskTPNm31Je266Mtrne.jpg"
+    },
+    {
+      "id": "tt13695606",
+      "type": "series",
+      "name": "Una Voluntad Eterna",
+      "poster": "https://image.tmdb.org/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg"
+    },
+    {
+      "id": "tt44168238",
+      "type": "series",
+      "name": "Criado por Demonios: Panda Li",
+      "poster": "https://image.tmdb.org/t/p/w500/jSkwEvYUoTw1frP6w5pucxtqpQs.jpg"
+    },
+    {
+      "id": "tmdb:297923",
+      "type": "series",
+      "name": "Spirit Realm Walker",
+      "poster": "https://image.tmdb.org/t/p/w500/l1HU17a5UbK5YufHw8jGSimvnW4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community.donghua.newepisodes",
+  "version": "1.0.0",
+  "name": "Donghua Nuevos Episodios",
+  "description": "Episodios recientes de sitios donghua sub espanol",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "donghua-new-episodes",
+      "name": "Nuevos episodios donghua"
+    }
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb"
+  ]
+}
